@@ -4,15 +4,15 @@ A collection of utility scripts for system automation and optimization, designed
 
 ## 📋 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Repository Structure](#repository-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Security](#security)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-- [Changelog](#changelog)
+- [About the Project](#-about-the-project)
+- [Repository Structure](#-repository-structure)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Security](#-security)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
+- [Changelog](#-changelog)
 
 ## 🎯 About the Project
 
