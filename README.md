@@ -45,7 +45,7 @@ script-utility/
 │   │   ├── windows-optimization.bat
 │   │   └── README.md
 │   ├── linux/
-│   │   ├── system-cleanup.sh
+│   │   ├── linux-optimization.sh
 │   │   └── README.md
 │   └── python/
 │       ├── file-organizer.py
